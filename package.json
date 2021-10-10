@@ -1,0 +1,21 @@
+{
+  "name": "catch_pic",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "async": "^3.2.1",
+    "cheerio": "^1.0.0-rc.10",
+    "express": "^4.17.1",
+    "gbk": "^0.1.0",
+    "iconv-lite": "^0.6.3",
+    "mkdirp": "^1.0.4",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
